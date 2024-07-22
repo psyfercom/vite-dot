@@ -9,7 +9,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.4.9",
-    "smoldot": "1.0.17"
+    "smoldot": "1.0.17",
+    "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "@subsquid/scale-codec": "^4.0.1"
   }
 }
